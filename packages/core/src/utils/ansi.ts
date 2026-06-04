@@ -95,6 +95,14 @@ export function setTitle(title: string): string {
     return `${OSC}0;${title}\x07`;
 }
 
+/** The BEL control byte. */
+export const bell = '\x07';
+
+/** OSC 9 desktop notification: ESC ] 9 ;  BEL. */
+export function notify(text: string): string {
+    return `${OSC}9;${text}${bell}`;
+}
+
 // ── Clipboard ───────────────────────────────────────
 
 /**
