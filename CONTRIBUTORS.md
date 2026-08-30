@@ -8,8 +8,8 @@ We want to thank all the amazing contributors who have helped make TermUI what i
 | <img src="https://avatars.githubusercontent.com/u/220186330?v=4" width="40" height="40" style="border-radius: 50%;" alt="srushti-panara" /> | [@srushti-panara](https://github.com/srushti-panara) | 86 |
 | <img src="https://avatars.githubusercontent.com/u/201338831?v=4" width="40" height="40" style="border-radius: 50%;" alt="ionfwsrijan" /> | [@ionfwsrijan](https://github.com/ionfwsrijan) | 79 |
 | <img src="https://avatars.githubusercontent.com/u/179694969?v=4" width="40" height="40" style="border-radius: 50%;" alt="Tomeshwari-02" /> | [@Tomeshwari-02](https://github.com/Tomeshwari-02) | 67 |
+| <img src="https://avatars.githubusercontent.com/u/195310178?v=4" width="40" height="40" style="border-radius: 50%;" alt="ZainabTravadi" /> | [@ZainabTravadi](https://github.com/ZainabTravadi) | 42 |
 | <img src="https://avatars.githubusercontent.com/u/186480203?v=4" width="40" height="40" style="border-radius: 50%;" alt="Harshithk951" /> | [@Harshithk951](https://github.com/Harshithk951) | 41 |
-| <img src="https://avatars.githubusercontent.com/u/195310178?v=4" width="40" height="40" style="border-radius: 50%;" alt="ZainabTravadi" /> | [@ZainabTravadi](https://github.com/ZainabTravadi) | 41 |
 | <img src="https://avatars.githubusercontent.com/u/208418469?v=4" width="40" height="40" style="border-radius: 50%;" alt="Aryan-Agarwal-creator" /> | [@Aryan-Agarwal-creator](https://github.com/Aryan-Agarwal-creator) | 40 |
 | <img src="https://avatars.githubusercontent.com/u/185155652?v=4" width="40" height="40" style="border-radius: 50%;" alt="itssagarK" /> | [@itssagarK](https://github.com/itssagarK) | 38 |
 | <img src="https://avatars.githubusercontent.com/u/150170054?v=4" width="40" height="40" style="border-radius: 50%;" alt="realtushartyagi" /> | [@realtushartyagi](https://github.com/realtushartyagi) | 27 |
@@ -111,7 +111,7 @@ We want to thank all the amazing contributors who have helped make TermUI what i
 | <img src="https://avatars.githubusercontent.com/u/203492452?v=4" width="40" height="40" style="border-radius: 50%;" alt="Althafdudekula" /> | [@Althafdudekula](https://github.com/Althafdudekula) | 2 |
 | <img src="https://avatars.githubusercontent.com/u/171276863?v=4" width="40" height="40" style="border-radius: 50%;" alt="DarkSorcerer14" /> | [@DarkSorcerer14](https://github.com/DarkSorcerer14) | 2 |
 | <img src="https://avatars.githubusercontent.com/u/254278219?v=4" width="40" height="40" style="border-radius: 50%;" alt="bhanu-forge" /> | [@bhanu-forge](https://github.com/bhanu-forge) | 2 |
-| <img src="https://avatars.githubusercontent.com/u/245611067?v=4" width="40" height="40" style="border-radius: 50%;" alt="biswa1601nk-hub" /> | [@biswa1601nk-hub](https://github.com/biswa1601nk-hub) | 2 |
+| <img src="https://avatars.githubusercontent.com/u/245611067?v=4" width="40" height="40" style="border-radius: 50%;" alt="biswa16-dev" /> | [@biswa16-dev](https://github.com/biswa16-dev) | 2 |
 | <img src="https://avatars.githubusercontent.com/u/293029694?v=4" width="40" height="40" style="border-radius: 50%;" alt="Chakshu-Bamotra-04" /> | [@Chakshu-Bamotra-04](https://github.com/Chakshu-Bamotra-04) | 2 |
 | <img src="https://avatars.githubusercontent.com/u/156359333?v=4" width="40" height="40" style="border-radius: 50%;" alt="DivyanshSaharan" /> | [@DivyanshSaharan](https://github.com/DivyanshSaharan) | 2 |
 | <img src="https://avatars.githubusercontent.com/u/182231535?v=4" width="40" height="40" style="border-radius: 50%;" alt="ida-jemi" /> | [@ida-jemi](https://github.com/ida-jemi) | 2 |
